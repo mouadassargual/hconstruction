@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="80" viewBox="0 0 360 80" role="img" aria-labelledby="title desc">
+  <title id="title">Ste.H.C.Sarl</title>
+  <desc id="desc">Logo Ste.H.C.Sarl - Location matériel de construction</desc>
+  <defs>
+    <linearGradient id="markGradient" x1="6" y1="8" x2="66" y2="72" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c91426"/>
+      <stop offset="1" stop-color="#f2b705"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="5" flood-color="#18212f" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+  <g filter="url(#softShadow)">
+    <rect x="8" y="8" width="64" height="64" rx="12" fill="url(#markGradient)"/>
+    <path d="M20 23h31l8 10M51 23v18M51 41c0 5-4 8-8 8-3 0-6-2-7-5" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" opacity="0.34"/>
+    <text x="40" y="50" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900" fill="#fff">HC</text>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="88" y="37" font-size="24" font-weight="900" fill="#293b8f" letter-spacing=".4">Ste.H.C.Sarl</text>
+    <text x="89" y="58" font-size="14" font-weight="700" fill="#586272">Location matériel de construction</text>
+    <path d="M89 66h166" stroke="#c91426" stroke-width="3" stroke-linecap="round"/>
+    <path d="M264 66h38" stroke="#f2b705" stroke-width="3" stroke-linecap="round"/>
+  </g>
+</svg>

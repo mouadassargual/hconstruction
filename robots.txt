@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ste-hc-sarl.ma/sitemap.xml
