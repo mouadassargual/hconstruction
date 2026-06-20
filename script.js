@@ -25,7 +25,7 @@
 
       var data = new FormData(form);
       var lines = [
-        "Bonjour Ste.H.C.Sarl, je souhaite un devis.",
+        "Bonjour Hsaina Construction, je souhaite un devis.",
         "Ville: " + (data.get("ville") || "-"),
         "Date souhaitée: " + (data.get("date") || "-"),
         "Charge à lever: " + (data.get("charge") || "-"),

@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ste-hc-sarl.ma/sitemap.xml
+Host: hsainaconstruction.com
+Sitemap: https://hsainaconstruction.com/sitemap.xml
