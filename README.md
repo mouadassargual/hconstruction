@@ -1,4 +1,4 @@
-# Site statique Hsaina Construction
+# Site statique Ste Hsaina Construction
 
 Site vitrine statique pour la location de grue mobile et matériel de construction à Agadir et partout au Maroc.
 
@@ -14,7 +14,7 @@ Site vitrine statique pour la location de grue mobile et matériel de constructi
 - `styles.css` : design responsive.
 - `script.js` : menu mobile, animations sobres, année automatique et formulaire WhatsApp.
 - `robots.txt` et `sitemap.xml` : base technique SEO.
-- `assets/` : photos renommées avec des mots-clés utiles.
+- `assets/` : visuels générés et logos utilisés par le site.
 - `vercel.json` : configuration Vercel pour les headers et le cache des assets.
 - `.vercelignore` : fichiers exclus du déploiement, comme les captures et les photos brutes non utilisées.
 
@@ -63,7 +63,7 @@ Après connexion du domaine sur Vercel, vérifier que ces deux URLs fonctionnent
 
 ## SEO local à faire après mise en ligne
 
-Créer ou compléter la fiche Google Business Profile de Hsaina Construction avec le même téléphone, le même email, les photos du matériel, la zone Agadir/Souss-Massa et la catégorie liée au matériel de construction. C'est indispensable pour viser les premières positions locales.
+Créer ou compléter la fiche Google Business Profile de Ste Hsaina Construction avec le même téléphone, le même email, la zone Agadir/Souss-Massa et la catégorie liée au matériel de construction. C'est indispensable pour viser les premières positions locales.
 
 ## Checklist indexation Google
 
@@ -78,7 +78,7 @@ Créer ou compléter la fiche Google Business Profile de Hsaina Construction ave
    - `https://hsainaconstruction.com/location-materiel-chantier-maroc.html`
    - `https://hsainaconstruction.com/machines.html`
 6. Créer ou optimiser Google Business Profile avec les mêmes informations NAP : nom, adresse/zone, téléphone, email, horaires.
-7. Ajouter des photos réelles de machines et chantiers si elles sont confirmées.
+7. Sur le site, garder les visuels générés. Pour Google Business Profile, ajouter seulement des photos réelles si elles sont validées par l'entreprise.
 8. Demander des avis clients authentiques après les interventions.
 
 Objectif SEO principal :
@@ -87,6 +87,9 @@ Objectif SEO principal :
 - `location grue mobile Maroc`
 - `location matériel de construction Agadir`
 - `location matériel chantier Maroc`
+- `grues de chantier Maroc`
+- `Manitou Maroc`
+- `machine JCB Maroc`
 - `matériel BTP Agadir`
 - `levage chantier Maroc`
 
@@ -94,7 +97,7 @@ La première position Google ne peut pas être garantie, mais cette structure do
 
 ## Inspiration métier
 
-Le site a été enrichi avec une structure comparable aux acteurs du secteur : catalogue de machines, secteurs d'application, critères de choix, formules de location, conseils et brief WhatsApp. Les textes sont originaux et adaptés aux informations confirmées de Hsaina Construction.
+Le site a été enrichi avec une structure comparable aux acteurs du secteur : catalogue de machines, secteurs d'application, critères de choix, formules de location, conseils et brief WhatsApp. Les textes sont originaux et adaptés aux informations confirmées de Ste Hsaina Construction.
 
 ## Images catalogue
 

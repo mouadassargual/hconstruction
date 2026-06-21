@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="80" viewBox="0 0 360 80" role="img" aria-labelledby="title desc">
-  <title id="title">Hsaina Construction</title>
-  <desc id="desc">Logo Hsaina Construction - Location matériel de construction</desc>
+  <title id="title">Ste Hsaina Construction</title>
+  <desc id="desc">Logo Ste Hsaina Construction - Location matériel de construction</desc>
   <defs>
     <linearGradient id="markGradient" x1="6" y1="8" x2="66" y2="72" gradientUnits="userSpaceOnUse">
       <stop stop-color="#c91426"/>
@@ -16,7 +16,7 @@
     <text x="40" y="50" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900" fill="#fff">HC</text>
   </g>
   <g font-family="Arial, Helvetica, sans-serif">
-    <text x="88" y="37" font-size="22" font-weight="900" fill="#293b8f" letter-spacing=".2">Hsaina Construction</text>
+    <text x="88" y="37" font-size="19" font-weight="900" fill="#293b8f" letter-spacing="0">Ste Hsaina Construction</text>
     <text x="89" y="58" font-size="14" font-weight="700" fill="#586272">Location matériel de construction</text>
     <path d="M89 66h166" stroke="#c91426" stroke-width="3" stroke-linecap="round"/>
     <path d="M264 66h38" stroke="#f2b705" stroke-width="3" stroke-linecap="round"/>
