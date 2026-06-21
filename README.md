@@ -89,6 +89,7 @@ Objectif SEO principal :
 - `location matériel chantier Maroc`
 - `grues de chantier Maroc`
 - `Manitou Maroc`
+- `télescopique JCB Maroc`
 - `machine JCB Maroc`
 - `matériel BTP Agadir`
 - `levage chantier Maroc`
